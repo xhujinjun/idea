@@ -1,1 +1,1 @@
-https://github.com/xdevtool/idea
+支持IDEA2020.3
